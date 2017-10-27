@@ -5,9 +5,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Saylor Electro-Acoustics
-tagline:             'Thoughts from Zambia'
-description:         'Come along for the big pause'
+#title:               Saylor Electro-Acoustics
+tagline:             'Where Sound Comes First'
+description:         'Where Sound Comes First'
 url:                 http://lanyon.getpoole.com
 baseurl:             
 plugins: [jekyll-paginate]
