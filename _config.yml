@@ -8,7 +8,7 @@ permalink:           pretty
 title:               'Saylor Electro-Acoustics'
 tagline:             'Where Sound Comes First'
 description:         'Where Sound Comes First'
-url:                 http://lanyon.getpoole.com
+url:                 www.saylorsound.com
 baseurl:             
 plugins: [jekyll-paginate]
 paginate:            5
@@ -16,8 +16,8 @@ paginate:            5
 # About/contact
 author:
   name:              Brad Saylor
-  url:               https://twitter.com/mdo
-  email:             bradsayloremail@gmail.com
+  url:               www.saylorsound.com
+  email:             brad@saylorsound.com
 
 # Custom vars
 version:             1.0.0
